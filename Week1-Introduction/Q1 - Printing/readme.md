@@ -2,4 +2,5 @@ Here is the question..
 
 <img src = "imgs/Wk1Q1.JPG" >
 
-![](imgs/Wk1Q2.PNG)
+![](Q1%20-%20Printing/Wk1Q1.JPG)
+<img src = "Wk1Q1.JPG" >
