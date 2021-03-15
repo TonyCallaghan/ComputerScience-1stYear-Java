@@ -4,3 +4,4 @@ Here is the question..
 
 ![](Q1%20-%20Printing/Wk1Q1.JPG)
 <img src = "Wk1Q1.JPG" >
+<img src = "imgs/Wk1Q2.png" >
