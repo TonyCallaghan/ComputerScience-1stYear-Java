@@ -1,4 +1,4 @@
-# About tis Rpository
+# About this Repository
 Every lab that was done in 1st year for Computer Science modules CS161/162
 
 I wanted to keep track of all assignments in case they were deleted at the end of the semester.
