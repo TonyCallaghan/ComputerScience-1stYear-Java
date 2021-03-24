@@ -11,7 +11,7 @@ Every lab that was done in 1st year for Computer Science modules CS161/162
 
 - Week 1 - Introduction
 - Week 2 - Operators
-- Week 3 - Operators cont.
+- Week 3 - Operators cont
 - Week 4 - Iteration
 - Week 5 - Strings
 - Week 6 - User Input
