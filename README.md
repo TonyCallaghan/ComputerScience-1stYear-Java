@@ -7,7 +7,7 @@ Every lab that was done in 1st year for Computer Science modules CS161/162
 
 ## Topics covered
 
-> Semester 1
+> Semester 1 
 
 - Week 1 - Introduction
 - Week 2 - Operators
