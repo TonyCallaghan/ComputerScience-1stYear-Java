@@ -11,13 +11,13 @@ Every lab that was done in 1st year for Computer Science modules CS161/162
 
 - Week 1 - Introduction
 - Week 2 - Operators
-- Week 3 - Operators cont
-- Week 4 - Iteration
-- Week 5 - Strings
-- Week 6 - User Input
-- Week 7 - Numbering Systems
-- Week 8 - Arrays
-- Week 9 - Nested Loops / 2d arrays
+- Week 3 - Iteration
+- Week 4 - Strings
+- Week 5 - User Input
+- Week 6 - Numbering Systems
+- Week 7 - Arrays
+- Week 8 - Nested Loops / 2d arrays
+- Week 9 - Additional functions / Revision
 - Week 10 - Scope / Casting / Exceptions
 
 > Semester 2
