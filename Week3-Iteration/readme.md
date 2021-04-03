@@ -1,4 +1,4 @@
-# Here is the hidden question for week 3 👇
+# Here is the hidden exam question for week 3 👇
 
 <img src = "Capture.PNG" width= "100%">
 
