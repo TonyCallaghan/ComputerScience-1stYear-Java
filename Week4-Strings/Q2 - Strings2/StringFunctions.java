@@ -6,6 +6,6 @@ public class StringFunctions {
         System.out.println("String length: " + s1.length());
         System.out.println("Position of first 'h': " + s1.indexOf('h') );
         System.out.println(s1.toUpperCase() );
-        System.out.println(s1.toLowerCase());
+        System.out.println(s1.toLowerCase() );
      }
 }
