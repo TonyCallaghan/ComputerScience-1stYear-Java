@@ -3,7 +3,7 @@ Every lab that was done in 1st year for Computer Science modules CS161/162
 
 * I wanted to keep track of all assignments in case they were deleted at the end of the semester.
 * All assignments were done through Java, which is the main language for 1<sup>st</sup> year.
-* These assignments were done on an IDE called MULE which was created by Maynooth University.
+* These assignments were done on an IDE called MULE which was created by Maynooth University. (Which doesn't allow copy/paste, so this took a **LOT** of time 😴😴😴)
 * Each week contains a minimum of 5 labs and then an exam question, which a student has 1 hour to complete on exam day. 
 
 ## Topics covered
