@@ -17,7 +17,7 @@ Every lab that was done in 1st year for Computer Science modules CS161/162
 - Week 5 - User Input
 - Week 6 - Numbering Systems
 - Week 7 - Arrays
-- Week 8 - Nested Loops / 2d arrays
+- Week 8 - Nested Loops / 2D arrays
 - Week 9 - Additional functions / Revision
 - Week 10 - Scope / Casting / Exceptions
 
