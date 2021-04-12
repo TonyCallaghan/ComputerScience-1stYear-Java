@@ -1,4 +1,4 @@
-# Here is the question 👇
+# Here is the hidden exam question for week 6 👇
 
 <img src = "Capture.PNG" width= "100%">
 
