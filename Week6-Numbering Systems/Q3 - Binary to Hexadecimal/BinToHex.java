@@ -21,7 +21,6 @@ public class Main
             }
             power--;
         }
-        System.out.println(decAns);
  
         // to dec to hex
         while(decAns>=1)
